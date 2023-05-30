@@ -13,4 +13,6 @@ const greatSumma = array.map((el) => {
     return sum;
 });
 
+console.log('--------------------');
 console.log(greatSumma);
+console.log('--------------------');
